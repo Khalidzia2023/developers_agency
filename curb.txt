@@ -30,7 +30,7 @@ Team (if client want to hire one more person then must to sign an agreement and 
 -- team develop what ( only low budget apps)
 -- payment wallet integration
 -- upload their own projects (not clients, incase client said sold it (needs signed approval)) for sale multiple can buy this 
-
+-- partnering client
 
 User ( client ) 
 -- must have to signed contract and if he wanna leave the team must to tell before assigninig their project 
@@ -39,4 +39,6 @@ User ( client )
 -- profile delete/ update
 -- payment wallet integration
 -- teams feedback
+-- wants to hire team with partenship
+
 -- upload their own projects  for sale, multiple can buy this 
