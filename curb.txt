@@ -1,0 +1,42 @@
+*curb project*
+
+
+
+App Modes 
+
+Admin
+  -- Admin create contract that must to sign by user and team with 3 conditions applied by their side after approval from rest of tows also
+  -- Login/Signup following by splash screen and then only they have a landing page with open drawer screens 
+  -- Open Drawer Screens are
+	-- Team Profiles List / User Profile List (All users/teams that are creates must to show here with their complete details)
+	-- Admin can sent users nontification if he found anything beyond rules or admin can remove or pause the profile for some reasons
+	-- Admin can create also sent strike to teams for multiple jobs 
+	-- Admin can see the Interactions like how much traffic got by which team 
+	-- Admin can see how much a team can earn or a user can spent
+	-- continue --
+
+
+</** Teams are selected based on several thigns and among them one is for development like Fully User satisfied apps($15000 month ), Custom AI software($5000 month),   Standard apps($3000 a month)**/>
+
+
+Team (if client want to hire one more person then must to sign an agreement and pay his 3 months pay in advance & his monthly payment differs)
+-- must have to signed contract and if he wanna leave the client must to tell before signing the project 
+-- Login/signup
+-- profile create 
+-- profile delete/ update
+-- portfolio creation/updation etc
+-- client testimonial 
+-- team charge ($1000 pere month)
+-- team develop what ( only low budget apps)
+-- payment wallet integration
+-- upload their own projects (not clients, incase client said sold it (needs signed approval)) for sale multiple can buy this 
+
+
+User ( client ) 
+-- must have to signed contract and if he wanna leave the team must to tell before assigninig their project 
+-- Login/signup
+-- profile create 
+-- profile delete/ update
+-- payment wallet integration
+-- teams feedback
+-- upload their own projects  for sale, multiple can buy this 
