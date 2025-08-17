@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066857780689",
+    "project_id": "dev-agency-1a4dd",
+    "storage_bucket": "dev-agency-1a4dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066857780689:android:e0fc448247fe3844103cf0",
+        "android_client_info": {
+          "package_name": "com.example.curb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspmTCeNlfZN_sK8yX_D65NwnJVPEqk50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066857780689:android:34737f66d36954a4103cf0",
+        "android_client_info": {
+          "package_name": "com.example.dev_agency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspmTCeNlfZN_sK8yX_D65NwnJVPEqk50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
